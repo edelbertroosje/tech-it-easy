@@ -161,3 +161,4 @@ const inventory = [
     sold: 8,
   },
 ];
+console.log(inventory)
